@@ -1,6 +1,15 @@
-
-
-
-/* banner css start  */
-
-/* banner css end  */
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Poppins:wght@100;300&family=Splash&display=swap');
+/* common css */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* course css end  */
+.banner-txt{ 
+    position: relative;
+    margin-top: -480px;
+    } 
+    .box{
+        border: 1px solid #E8E8E8;
+border-radius: 5px;
+    }
