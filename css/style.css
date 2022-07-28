@@ -14,9 +14,7 @@ body{
         .container{
             width: 100%;
         }
-        img{
-            width: 100%;
-        }
+       
         .cours-img img{
             width: 100%;
         }
@@ -54,7 +52,7 @@ body{
             margin-bottom: 20px;
         }
         .card{
-            margin-left: 30px;
+            margin-left: 10px;
             margin-bottom: 30px;
         }
         .ask-title{
