@@ -5,11 +5,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 /* course css end  */
-.banner-txt{ 
-    position: relative;
-    /* margin-top: -480px; */
-    } 
     .box{
         border: 1px solid #E8E8E8;
-border-radius: 5px;
+        border-radius: 5px;
     }
